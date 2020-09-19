@@ -1,0 +1,18 @@
+body{
+    background: #f1f1f1;
+    color: #020202;
+}
+nav{
+    background: #f1f1f1;
+    color: #000;
+}
+.nav-wrapper a{
+    color: #000;
+}
+hr{
+    width: 40%;
+}
+a{
+    color:orange;
+    
+}
